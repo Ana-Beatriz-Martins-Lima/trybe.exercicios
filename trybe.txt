@@ -1,0 +1,11 @@
+ o que vou aprender na trybe 
+unix
+bash
+git 
+git hub
+javascript
+python
+rest
+sql
+html
+css
