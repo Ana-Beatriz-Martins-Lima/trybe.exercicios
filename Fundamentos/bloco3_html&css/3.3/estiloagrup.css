@@ -1,0 +1,14 @@
+h1, p, div {
+    text-align: center;
+}
+
+li:hover{
+    background-color: aquamarine;
+}
+li:active{
+    font-family: fantasy;
+}
+
+.estilo{
+    list-style: none;
+}
