@@ -1,0 +1,38 @@
+h1{
+    color: rgb(66, 63, 236);
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 400px;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(0, 174, 255);
+}
+
+.texto1{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    margin-left: 42%;
+    
+}
+
+.texto2{
+    text-align: center;
+    
+    }
+.texto3{
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer{
+    text-align: center;
+}
