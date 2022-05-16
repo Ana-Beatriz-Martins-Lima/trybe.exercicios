@@ -16,11 +16,11 @@
 //let modulo = a%b
 //console.log(modulo)
 
-//if (a>b == true) {
-   // console.log("a é maior que b")
-//}else{
-   // console.log("b é maior que a" )
-//}
+/*if (a>b == true) {
+    console.log(a+ "é maior que"+ b)
+}else{
+    console.log("b é maior que a" )
+}*/
 
 //if ( a>0 == true ){
    // console.log("numero positivo")
@@ -48,7 +48,7 @@ else {
     console.log("false")
 }*/
 
-let peca = "cavalo"
+/*let peca = "cavalo"
 
 switch (peca.toLowerCase()){
 
@@ -78,4 +78,4 @@ switch (peca.toLowerCase()){
 
     default:
         console.log("Essa peça não existe no xadrez")
-}
+}*/
