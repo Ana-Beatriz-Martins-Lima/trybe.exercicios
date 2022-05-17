@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(253, 251, 251);
+    margin:0;
+}
+
+#cabecalho{
+    width: 100%;
+    background-color: aquamarine;
+    top: 0;
+    padding: 30px;
+
+}
+
+#titulo{
+    font-size: 50px;
+    text-align: center;
+    color: darkmagenta;
+    margin: 0
+}
+
+#minha_foto{
+    height: 400px;
+    border: 5px solid aquamarine
+}
+
+#curiosidade{
+  font-size: 30px;
+  margin-bottom: 50px;
+  margin-left: 45px;
+}
+li{
+  list-style: none;
+}
+
+.lado-esquerdo{
+  display: inline-block;
+}
+.lado-direito{
+  display: inline-block;
+}
+#artigo{
+  text-align: justify;
+  width: 800px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  
+}
+
+.comentario{
+  width: 350px;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+#rodape{
+  font-family: 'Times New Roman', Times, serif;
+}
