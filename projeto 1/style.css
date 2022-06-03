@@ -8,6 +8,7 @@ body{
     background-color: aquamarine;
     top: 0;
     padding: 30px;
+    position:fixed;
 
 }
 
