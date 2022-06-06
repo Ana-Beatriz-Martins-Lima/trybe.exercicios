@@ -35,7 +35,7 @@ function removeClass() {
 // 4.1. Que tal redirecionar para seu portfólio?
 myWebpage.addEventListener('dblclick', redirecione );
 function redirecione() {
-window.open("https://ana-beatriz-martins-lima.github.io/anabeatrizmartinslima.github.io/")
+window.open("https://ana-beatriz-martins-lima.github.io/anabeatrizmartinslima.github.io/", "_blank")
 }
   
 
