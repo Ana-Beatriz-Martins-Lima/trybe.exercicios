@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu';
+  
+}
+
+body{
+  background-color: rgb(13, 15, 14);
+  color: white;
+}
+
+
+
+.cabecalho{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+#logo{
+width: 70px;
+}
+
+#sign{
+  color: white;
+}
+
+h3{
+  color: white;
+}
+
+#primeira-secao{
+display: flex;
+justify-content: center;
+}
+
+.galeria{
+  display: flex ;
+  gap: 7px;
+  justify-content: center;
+  width: 700px;
+  flex-wrap: wrap;
+  margin-left: 30%;
+  margin-top: 30px;
+}
+
+#html{
+  width: 150px;
+height: 150px;
+cursor: pointer;
+
+}
+
+#css{
+width: 150px;
+height: 150px;
+cursor: pointer;
+}
+
+#javascript{
+  width: 150px;
+height: 150px;
+cursor: pointer;
+}
+
+#react{
+  width: 150px;
+height: 150px;
+cursor: pointer;
+}
+
+#redux{
+  width: 150px;
+height: 150px;
+cursor: pointer;
+}
+
+#rtl{
+  width: 150px;
+height: 150px;
+cursor: pointer;
+}
+
+#divhtml{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+#divcss{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+#divjavascript{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+#divreact{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+#divredux{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+#divrtl{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(223, 217, 217);
+}
+
+
+#instagram{
+  width: 25px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+#linked{
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+footer{
+  display:flex ;
+  justify-content: center;
+  margin: 50px;
+  padding: 10px;
+  border-radius: 10px;
+ 
+}
